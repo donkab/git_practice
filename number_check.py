@@ -11,3 +11,9 @@ else:
         print("3の倍数です")
     else:
         print("3の倍数ではありません")
+    if number % 5 == 0:
+        print("5の倍数です")
+    else:
+        print("5の倍数ではありません")
+    if number % 15 == 0:
+        print("15の倍数です")
