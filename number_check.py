@@ -23,3 +23,7 @@ else:
         print("負の数です")
     else:
         print("0です")
+    if number % 10 == 0:
+        print("10の倍数です")
+    else:
+        print("10の倍数ではありません")
