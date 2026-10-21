@@ -17,7 +17,6 @@ else:
         print("5の倍数ではありません")
     if number % 15 == 0:
         print("15の倍数です")
-        print("3と5の両方の倍数です")
     if number > 0:
         print("正の数です")
     elif number < 0:
