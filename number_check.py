@@ -27,3 +27,7 @@ else:
         print("10の倍数です")
     else:
         print("10の倍数ではありません")
+    if number % 7 == 0:
+        print("7の倍数です")
+    else:
+        print("7の倍数ではありません")
